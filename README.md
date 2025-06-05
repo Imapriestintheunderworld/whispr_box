@@ -41,7 +41,7 @@ WhisprBox is a simple yet elegant web app that allows users to submit anonymous 
 ## 🛠️ How to Run Locally
  
 ```
-git clone https://github.com/yourusername/WhisprBox.git
+git clone https://github.com/Imapriestintheunderworld/whispr_box.git
 cd WhisprBox
 npm install
 dfx start --background
